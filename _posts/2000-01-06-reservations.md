@@ -17,16 +17,13 @@ color: black
 
 
 ## **Requirements**
+
 #### Non-Refundable $50 rental fee.
 #### Refundable $500 security deposit.
 #### Homeowner signs the rental agreement. 
 
 <img src="./img/InsideClubhouse.jpg" alt="IndoorClubhouse" width="100%">
 
-##### Please fill out a <a href="https://forms.gle/jXot6iAB6ycBFQQa6">reservation request form</a> to get started. One of our board members will reach out to you with more information including the rental agreement. 
+## **Request Form**
 
-
-----------
-
-#### Tennis Court 
-##### Please email tennis@suvhoa.com to reserve
+#### Please fill out a <a href="https://forms.gle/jXot6iAB6ycBFQQa6">reservation request form</a> to get started. One of our board members will reach out to you with more information including the rental agreement. 
