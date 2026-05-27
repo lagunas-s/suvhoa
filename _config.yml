@@ -52,6 +52,12 @@ colors:
   pastrn4:   '#9EE09E'
   pastrn5:   '#9EC1CF'
   pastrn6:   '#CC99C9'
+  deepsea:   '#1b263b'
+  sandone:   '#ede0d4'
+  sagegre:   '#a3b18a'
+  cobaltb:   '#70798c'
+  lightbr:   '#f5f1ed'
+  drkbrnw:   '#766153'
 
 kramdown:
   auto_ids:  false
