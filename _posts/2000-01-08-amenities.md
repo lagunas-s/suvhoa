@@ -1,3 +1,8 @@
+---
+title: "Dues"
+bg: lightbr
+color: black
+---
 # **SUVHOA Facilities**
 
 ### Homeowners and tenants are welcome to use the clubhouse, pool, tennis court, basketball court and playground. Your key card will open the gates for both the swimming pool area and tennis courts. 
