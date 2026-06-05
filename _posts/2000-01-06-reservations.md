@@ -1,6 +1,6 @@
 ---
 title: "Reservations"
-bg: sandone 
+bg: softrn3 
 color: black
 ---
 # **Event Space and Reservations**
