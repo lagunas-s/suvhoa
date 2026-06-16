@@ -13,7 +13,7 @@ color: black
 
 #### The clubhouse may be reserved by homeowners or tenants. General reservation hours are 9:00 a.m. – 10:00 p.m. Event guests may enjoy the swimming pools, but not exclusively. 
 
-<img src="./img/Clubhouse inside.jpeg" alt="IndoorC" width="100%">
+<img src="./img/Clubhouse Inside.jpeg" alt="IndoorC" width="100%">
 
 
 ## **Requirements**
