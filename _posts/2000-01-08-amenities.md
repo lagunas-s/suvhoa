@@ -12,18 +12,11 @@ color: black
 ## Swimming Pool 
 #### The pool hours are from 6:00 am to 10:00 pm.
 
-<img src="./img/Tennis.jpeg" alt="tennis" width="100%">
-
 ## Tennis Courts
 #### Tennis courts are available year-round from sunrise to sundown.
 
-<img src="./img/Playground.jpeg" alt="play" width="100%">
-
 ## Playground, Basketball Court and Volleyball Court
 #### These three areas are not gated and available to the neighborhood. 
-
-<img src="./img/BBall.jpeg" alt="ball" width="100%">
-
 
 
 
